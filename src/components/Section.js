@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import Fade from 'react-reveal/Fade'
 
 function Section(props) {
+  //change
   return (
     <Wrap bgImg = {props.src}>
       <Fade bottom>
