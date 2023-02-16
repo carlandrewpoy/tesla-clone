@@ -1,5 +1,5 @@
 import {createSlice} from '@reduxjs/toolkit'
-
+//car
 const initialState = {
   cars: ["Model S", "Model 3", "Model X", "Model Y"]
 }
